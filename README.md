@@ -7,7 +7,6 @@ Full Stack Developer
 Hey, im Lucas, 15 Years old and im coding for at least 5 Years.
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [admin@ace-v.de](mailto:admin@ace-v.de)
 * 🧠  I'm learning tailwind
 
 <a href="https://www.github.com/AceyV" target="_blank" rel="noreferrer"><img
