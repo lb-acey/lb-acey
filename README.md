@@ -10,7 +10,7 @@ Hey, im Lucas, 15 Years old and im coding for at least 5 Years.
 * 🧠  I'm learning tailwind
 
 <a href="https://www.github.com/lb-acey" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AceyV?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/Acey__v" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/lb-acey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/Acey__v" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/Acey__v?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
