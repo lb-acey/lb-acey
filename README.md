@@ -29,6 +29,6 @@ src="https://img.shields.io/twitch/status/Acey__v?logo=twitchsx&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lb-acey"><img src="https://github-readme-stats.vercel.app/api?username=AceyV&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AceyV's GitHub stats" /></a>
+<a href="http://www.github.com/lb-acey"><img src="https://github-readme-stats.vercel.app/api?username=lb-acey&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lb-aceys's GitHub stats" /></a>
 
-<a href="https://github.com/lb-acey" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceyV&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/lb-acey" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lb-acey&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
