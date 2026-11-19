@@ -29,9 +29,3 @@ My focus is on creating reliable, scalable and maintainable solutions — from b
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/streak?username=lb-acey&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </div>
-
-<h2 align="center">Connect with Me 🤝</h2>
-
-<div align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/lb-acey) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lb_acey)
-</div>
